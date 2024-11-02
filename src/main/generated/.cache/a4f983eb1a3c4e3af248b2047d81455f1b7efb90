@@ -1,0 +1,8 @@
+// 1.21	2024-11-02T15:00:37.1197967	Eye of the Beholder/Model Definitions
+589aecf3243887fc9df65d5a72d530b2707adcb0 assets\beholders\models\item\activated_crystal.json
+4700db46903bb21df4087c56b119529700f5d869 assets\beholders\blockstates\activated_crystal.json
+016894daedffcd135ed50442cf1fd9b8e5f5afb2 assets\beholders\models\item\deactivated_crystal.json
+d463294f73646bfa0bafd554e49b30603684b0c0 assets\beholders\blockstates\deactivated_crystal.json
+4ff44ad0a614290c3aa6f4b564836b24603e01aa assets\beholders\models\block\activated_crystal.json
+a68c29fadbdd5a37f21bfe6ff5af8e0cb7002837 assets\beholders\models\item\ancient_orb.json
+cf02ae4f3dd85ac304b4340621d7d688aba3bd8c assets\beholders\models\block\deactivated_crystal.json
